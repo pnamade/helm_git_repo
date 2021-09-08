@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gitrepotest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-09-09T00:09:12.601958+01:00"
+    description: A Helm chart repo used for git repo
+    digest: b26d1f3192559932e1246f3e076cbf1a30ad8290fb34fddcf37b7c45fa51c669
+    name: gitrepotest
+    type: application
+    urls:
+    - gitrepotest-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-09-09T00:09:12.601131+01:00"
